@@ -25,6 +25,7 @@
                 <source_file filepath="true">exception_handler.c</source_file>
                 <source_file filepath="true">chario.c</source_file>
                 <source_file filepath="true">isr.c</source_file>
+                <source_file filepath="true">7-Segment-ASCII_HEX.c</source_file>
             </source_files>
             <compiler_flags>-g -O1 -ffunction-sections -fverbose-asm -fno-inline</compiler_flags>
             <emulate_unimpl_instructions>true</emulate_unimpl_instructions>

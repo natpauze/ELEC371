@@ -12,7 +12,7 @@
 	return;
 }
 
-//calls print char to print a string until \n
+//calls print char to print a string until \0 char
  void PrintString(char *c){
 	int idx =0;
 	while(c[idx] != '\0'){
